@@ -1,0 +1,2 @@
+stod();
+字符串转double
